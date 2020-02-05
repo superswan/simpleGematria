@@ -1,0 +1,2 @@
+# simpleGematria
+Simple Gematria Calculator
