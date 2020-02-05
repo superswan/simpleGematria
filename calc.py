@@ -8,7 +8,7 @@ def getValue(l):
 def calcGematria(word):
     total = 0
     if word.isalpha():
-        for letter in user_input:
+        for letter in word:
             total = total+getValue(letter)
     else:
         raise Exception("String must only contain letters")
